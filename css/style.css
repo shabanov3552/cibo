@@ -128,15 +128,15 @@ body._lock {
 }
 
 .page__leaf_1 {
-  -webkit-animation: fly1 15s infinite linear;
-          animation: fly1 15s infinite linear;
+  -webkit-animation: fly1 25s infinite linear;
+          animation: fly1 25s infinite linear;
   top: 21%;
   left: 38%;
 }
 
 .page__leaf_2 {
-  -webkit-animation: fly2 20s infinite linear;
-          animation: fly2 20s infinite linear;
+  -webkit-animation: fly2 30s infinite linear;
+          animation: fly2 30s infinite linear;
   /* top: 11%;
   right: 12%; */
   top: 23%;
@@ -147,8 +147,8 @@ body._lock {
 }
 
 .page__leaf_3 {
-  -webkit-animation: fly3 15s infinite linear;
-          animation: fly3 15s infinite linear;
+  -webkit-animation: fly3 25s infinite linear;
+          animation: fly3 25s infinite linear;
   right: 24%;
   bottom: 25%;
   -webkit-transform: rotate(252deg) scale(0.8, -0.8);
@@ -157,8 +157,8 @@ body._lock {
 }
 
 .page__leaf_4 {
-  -webkit-animation: fly4 20s infinite linear;
-          animation: fly4 20s infinite linear;
+  -webkit-animation: fly4 30s infinite linear;
+          animation: fly4 30s infinite linear;
   bottom: 33%;
   left: 25%;
   -webkit-transform: rotate(355deg);
